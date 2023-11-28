@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Mulish", sans-serif;
+    font-weight: 400;
+    background-color: rgb(255, 255, 255);
+}
+
+nav {
+    background-color: white;
+    display: grid;
+    position: sticky;
+    top: 0;
+    grid-template-columns: 15vw 20vw 35vw 26.5vw 3.5vw;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+    box-shadow: 0 2px 5px rgba(68, 68, 68, 0.3);
+}
+
+
+nav .logo {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    grid-column: 1;
+}
+
+nav .logo img {
+    margin: auto;
+}
+
+
+nav .location {
+    height: 40px;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    grid-column: 2;
+}
+
+nav .location input {
+    border: 1px solid rgb(167, 167, 167);
+    border-radius: 0.3em;
+    padding: 0 15%;
+}
+
+nav .location input::placeholder {
+    font-family: "Mulish", sans-serif;
+}
+
+nav .menu-options {
+    grid-column: 4;
+}
+
+nav .menu-options ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+    
+}
+
+.menu-options ul li {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    transition: 0.25s;
+}
+
+.menu-options ul li:hover {
+    transition: 0.25s;
+    cursor: pointer;
+    color: rgb(0, 137, 216);
+}
+
+.menu-options ul li img {
+    display: flex;
+    width: 25px;
+    grid-column: 1;
+    margin: auto;
+}
+
+.menu-options ul li .options {
+    display: flex;
+    grid-column: 2;
+    margin: auto;
+}

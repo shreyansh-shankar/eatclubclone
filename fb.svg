@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>facebook-logo-button</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.900000036">
+        <g id="Footer" transform="translate(-1144.000000, -350.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="facebook-logo-button" transform="translate(1144.000000, 350.000000)">
+                <path d="M7.4478,0 C3.3411,0 0,3.3411 0,7.4478 C0,11.5542 3.3411,14.8956 7.4478,14.8956 C11.5542,14.8956 14.8956,11.5542 14.8956,7.4478 C14.8956,3.3411 11.5548,0 7.4478,0 Z M9.3,7.71 L8.0883,7.71 C8.0883,9.6459 8.0883,12.0288 8.0883,12.0288 L6.2928,12.0288 C6.2928,12.0288 6.2928,9.669 6.2928,7.71 L5.4393,7.71 L5.4393,6.1836 L6.2928,6.1836 L6.2928,5.1963 C6.2928,4.4892 6.6288,3.3843 8.1048,3.3843 L9.4353,3.3894 L9.4353,4.8711 C9.4353,4.8711 8.6268,4.8711 8.4696,4.8711 C8.3124,4.8711 8.0889,4.9497 8.0889,5.2869 L8.0889,6.1839 L9.4569,6.1839 L9.3,7.71 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
